@@ -5,7 +5,7 @@ date:       2020-10-26
 author:     Yukun SHANG
 catalog: 	 true
 tags:
-    - python
+    - Python
 ---
 
 # python list slice

@@ -5,7 +5,7 @@ date:       2021-01-10
 author:     Yukun SHANG
 catalog: 	 true
 tags:
-    - Research
+    - C/C++
 ---
 
 # memset & memcpy

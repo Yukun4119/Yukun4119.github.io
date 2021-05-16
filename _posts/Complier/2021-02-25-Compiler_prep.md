@@ -5,7 +5,7 @@ date:       2021-02-24
 author:     Yukun SHANG
 catalog: 	 true
 tags:
-    - C/C++
+    - Compiler
 ---
 
 # 面试中的编译原理

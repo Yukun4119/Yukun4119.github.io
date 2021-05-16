@@ -5,7 +5,7 @@ date:       2020-09-10
 author:     Yukun SHANG
 catalog: 	 true
 tags:
-    - python
+    - Python
 ---
 
 # python web module

@@ -4,8 +4,7 @@ title:      指定某块GPU去训练
 date:       2020-01-18
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - GPU
+tags:		[Deep Learning]
 ---
 
 # 指定某块GPU去训练

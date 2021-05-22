@@ -4,8 +4,7 @@ title:      python web module
 date:       2020-09-10
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - Python
+tags:		[Python]
 ---
 
 # python web module

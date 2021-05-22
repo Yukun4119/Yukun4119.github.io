@@ -4,8 +4,7 @@ title:      MacOS 通过绿联typec拓展坞连接有线网
 date:       2018-10-18
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - Others
+tags:		[Others]
 ---
 
 # MacOS 通过绿联typec拓展坞连接有线网

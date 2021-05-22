@@ -4,9 +4,7 @@ title:      llvm in MacOS
 date:       2019-10-18
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - MacBook
-	- LLVM
+tags:		[MacBook,LLVM]
 ---
 
 # llvm in MacOS

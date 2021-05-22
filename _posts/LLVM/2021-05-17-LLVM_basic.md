@@ -4,9 +4,7 @@ title:      LLVM基础
 date:       2021-05-17
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-	- LLVM	
-	- Compiler
+tags:		[LLVM,Compiler]
 ---
 
 # LLVM Basic

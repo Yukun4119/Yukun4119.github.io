@@ -4,8 +4,7 @@ title:      new和malloc的区别
 date:       2021-02-25
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - C/C++
+tags:       [C/C++]
 ---
 
 

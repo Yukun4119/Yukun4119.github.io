@@ -4,8 +4,7 @@ title:      sklearn中的LinearRegression
 date:       2020-08-07
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - Machine Learning
+tags:   	[MachineLearning]
 ---
 
 # sklearn中的LinearRegression

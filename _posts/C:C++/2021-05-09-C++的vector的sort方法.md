@@ -4,8 +4,7 @@ title:      sort in vector
 date:       2021-02-25
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - C/C++
+tags:       [C/C++]
 ---
 
 # C++ vector sort方法

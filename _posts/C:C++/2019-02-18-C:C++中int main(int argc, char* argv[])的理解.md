@@ -4,8 +4,7 @@ title:      C/C++中main的参数的理解
 date:       2019-01-18
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - C/C++
+tags:     [C/C++]
 ---
 
 # C/C++中main的参数的理解

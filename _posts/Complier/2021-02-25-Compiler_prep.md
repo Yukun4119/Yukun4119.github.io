@@ -4,9 +4,7 @@ title:      面试中的编译原理
 date:       2021-02-24
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - Compiler	
-	- Interview
+tags:       [Compiler,Interview]
 ---
 
 # 面试中的编译原理

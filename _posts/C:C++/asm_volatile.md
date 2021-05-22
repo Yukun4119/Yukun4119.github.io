@@ -1,8 +1,15 @@
+---
+layout:     post
+title:      sort in vector
+date:       2021-02-25
+author:     Yukun SHANG
+catalog: 	 true
+tags:       [C/C++, Assembly]
+---
+
 ## What is asm volatile?
 
 `asm volatile` is Inline assembly in **Linux C**
-
-
 
 ## Basic Rules
 
@@ -17,15 +24,5 @@
 
 **asm** is `keyword`
 
-**volatile**为可选关键字，表示不需要gcc对下面的汇编代码做任何优化
-
-
-
-
-
-
-
-## Reference:
-
-https://blog.csdn.net/slvher/article/details/8864996
+**volatile** is optional. 
 

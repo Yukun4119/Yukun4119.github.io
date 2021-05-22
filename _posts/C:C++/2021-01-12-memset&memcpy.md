@@ -4,8 +4,7 @@ title:      memset & memcpy
 date:       2021-01-10
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - C/C++
+tags:      [C/C++]
 ---
 
 # memset & memcpy

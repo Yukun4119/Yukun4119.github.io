@@ -4,8 +4,7 @@ title:      python list slice
 date:       2020-10-26
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - Python
+tags:		[Python]
 ---
 
 # python list slice

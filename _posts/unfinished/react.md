@@ -1,1 +1,0 @@
-https://zh-hans.reactjs.org/docs/getting-started.html

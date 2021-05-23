@@ -15,9 +15,4 @@ tags:       [Compiler,Interview]
 
 还是去看OS的那个图吧
 
-![Screen Shot 2021-02-26 at 22.23.12](2021-02-25-Compiler_prep.assets/Screen Shot 2021-02-26 at 22.23.12.png)
-
-
-
-![]()
-
+![Screen Shot 2021-02-26 at 22.23.12](https://raw.githubusercontent.com/Yukun4119/BlogImg/main/img/Screen%20Shot%202021-02-26%20at%2022.23.12.png)

@@ -4,7 +4,7 @@ title:      anaconda tips
 date:       2019-11-18
 author:     Yukun SHANG
 catalog: 	 true
-tags:       [Tools]
+tags:       [Python, Conda]
 ---
 
 # anaconda tips

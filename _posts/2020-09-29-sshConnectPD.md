@@ -4,8 +4,7 @@ title:      SSH in PD
 date:       2020-09-29
 author:     Yukun SHANG
 catalog: 	 true
-tags:
-    - Tools
+tags:       [ssh, Parallel Desktop]
 ---
 
 # SSH in PD

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      sort in vector
-date:       2021-02-25
+title:      C++ vector sort方法
+date:       2021-05-09
 author:     Yukun SHANG
 catalog: 	 true
 tags:       [C/C++]

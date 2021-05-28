@@ -78,7 +78,7 @@ ssh-copy-id -i ~/.ssh/ubt.pub syk@10.37.129.4
 
 You will find `authorized_keys` on Ubuntu:
 
-![Screen Shot 2020-09-29 at 19.27.36](2020-09-29-SSH.assets/Screen Shot 2020-09-29 at 19.27.36.png)
+![authorized_keys_pd](https://raw.githubusercontent.com/Yukun4119/BlogImg/main/img/authorized_keys_pd.png)
 
 Now, we have copy the public key to Ubuntu
 
@@ -99,8 +99,8 @@ Host ubt
       IdentityFile ~/.ssh/ubt
 ```
 
-![Screen Shot 2020-09-29 at 19.30.20](2020-09-29-SSH.assets/Screen Shot 2020-09-29 at 19.30.20.png)
+![Host_ubt](https://raw.githubusercontent.com/Yukun4119/BlogImg/main/img/Host_ubt.png)
 
 ## Step 6 ENJOY :P
 
-![Screen Shot 2020-09-29 at 19.31.06](2020-09-29-SSH.assets/Screen Shot 2020-09-29 at 19.31.06.png)
+![Enjoy](https://raw.githubusercontent.com/Yukun4119/BlogImg/main/img/Enjoy.png)

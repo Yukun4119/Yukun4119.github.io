@@ -39,3 +39,5 @@ Apache [əˈpætʃiː]
 
 SQL.  [ˌɛsˌkjuːˈɛl]
 
+django:   /ˈdʒæŋɡoʊ/    JANG-go
+

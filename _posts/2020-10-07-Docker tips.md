@@ -43,7 +43,10 @@ exit   # Ctrl-d is also ok
 ```shell
 # Create new contain and set up Docker Volume
 # where 6666 can be replace by IMAGE ID 
-docker run -it -v `pwd`:/home/oslab/lab1 -u oslab -w /home/oslab 6666 /bin/bash
+# `pwd` means the current host path, you can also use your customed path.
+# /home/oslab/ is the docker container path
+# -u oslab denotes the user, which is optional. If omitted, root is the default user
+docker run -it -v `pwd`:/home/oslab/ -u oslab -w /home/oslab 6666 /bin/bash
 ```
 
 

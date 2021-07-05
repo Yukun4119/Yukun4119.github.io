@@ -33,6 +33,9 @@ docker stop [container name/id]
 # remove container
 docker rm [container name/id]
 
+# exit docker interface
+exit   # Ctrl-d is also ok
+
 ```
 
 ## Advanced Operation

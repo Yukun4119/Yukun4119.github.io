@@ -9,46 +9,43 @@ tags:		[Docker]
 
 # docker 基本操作
 
-- create new container from image
+## Basic Operation
 
-```
+```shell
+# create new container from image
 docker run [image name/id]
-```
 
-- list all the containers
-
-```
+# list all the containers
 docker ps -a
-```
 
-- start container
-
-```
+# start container
 docker start [container name/id]
-```
 
-- enter container
-
-```
+# enter container
 docker exec -it [container name/id] /bin/sh
-```
 
-
-If you are using docker on Ubuntu, the following command may be correct.
-
-```
+# If you are using docker on Linux(like Ubuntu), the following command may be correct.
 docker exec -it [container name/id] bash
-```
 
-- stop container
-
-```
+# stop container
 docker stop [container name/id]
-```
 
-- remove 
-
-```
+# remove container
 docker rm [container name/id]
+
 ```
+
+## Advanced Operation
+
+```shell
+# Create new contain and set up Docker Volume
+# where 6666 can be replace by IMAGE ID 
+docker run -it -v `pwd`:/home/oslab/lab1 -u oslab -w /home/oslab 6666 /bin/bash
+```
+
+
+
+## Reference
+
+[Docker Volume - 目录挂载以及文件共享](https://kebingzao.com/2019/02/25/docker-volume/)
 

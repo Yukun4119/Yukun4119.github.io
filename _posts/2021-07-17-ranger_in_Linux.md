@@ -4,7 +4,7 @@ title:      ranger in Linux
 date:       2021-07-17
 author:     Yukun SHANG
 catalog: 	 true
-tags:       [others]
+tags:       [Linux]
 ---
 
 # Ranger in Linux(or MacOS)
